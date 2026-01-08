@@ -8,7 +8,7 @@
 
 **INSTALLATION:**
 
-1 - Download files from [release](https://github.com/Etozheesusoff/ARC-RAIDERS-SETTINGS/releases/tag/release).
+1 - Download file from [release](https://github.com/Etozheesusoff/ARC-RAIDERS-SETTINGS/releases/tag/release).
 
 2 - Move the file «GameUserSettings" to **«`C:\Users\AppData\Local\PioneerGame\Saved\Config\WindowsClient`»**
 
@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 **УСТАНОВКА:**
 
-1 - Скачать файлы из [релиз](https://github.com/Etozheesusoff/ARC-RAIDERS-SETTINGS/releases/tag/release).
+1 - Скачать файл из [релиз](https://github.com/Etozheesusoff/ARC-RAIDERS-SETTINGS/releases/tag/release).
 
 2 - Переместить файл **"GameUserSettings"** в **«`C:\Users\AppData\Local\PioneerGame\Saved\Config\WindowsClient`»**
    
